@@ -1,5 +1,9 @@
 # Glance
 
+![lang](https://img.shields.io/badge/lang-Rust+TS-informational) ![status](https://img.shields.io/badge/status-maintained-brightgreen)
+
+> **这是 fork**，上游是 [Harukaon/Glance](https://github.com/Harukaon/Glance)。我在这里的提交：[#22 (open) feat: 设置面板加「检查更新」，查到新版本一键打开发布页；#20 (merged) feat: 横栏加置顶图钉，窗口可以拉到只剩横栏；#19 (open) feat: 切换语言或引擎后立即重翻，不用再按一次回车；#18 (merged) fix: 输入法组合阶段不再抢翻拼音，回车归还给候选词；#17 (closed) 主窗口输入中文时翻成的是拼音，回车要按两次才出正确译文]。日常使用请取主仓库，本 fork 只用于上游投递与本地补丁。
+
 一款轻量级桌面截图翻译工具。快捷键截屏，框选即翻译，基于有道 OCR 实现实时图片翻译。
 
 使用 Tauri 2 + 原生窗口渲染，启动快、体积小。
